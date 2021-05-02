@@ -128,7 +128,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar li {
   position: relative;
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 .navbar a {
@@ -537,6 +537,7 @@ section {
 --------------------------------------------------------------*/
 .about {
   padding-top: 80px;
+  background-color: white;
 }
 
 .about .content h3 {

@@ -33,7 +33,7 @@
 
   <main id="main">
     <section id="about" class="about">
-      <div class="container">
+      <div class="container-fluid">
 
         <div class="section-title" data-aos="zoom-out">
           <h2>About</h2>
